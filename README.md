@@ -1,4 +1,5 @@
 # LiDAR Obstacle Detection
+<img src="media/LidarObstacleDetection.gif" width="700" height="400" />
 
 ## Introduction
 
