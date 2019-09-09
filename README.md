@@ -8,7 +8,7 @@ This project shows how to process raw point cloud data obtained from a LiDAR sen
 ## Project Build Instructions
 ### Ubuntu
 ```bash
-git clone https://github.com/sumukhpatil/LiDAR-Object-Detection.git
+git clone https://github.com/sumukhpatil/LiDAR-Obstacle-Detection.git
 cd LiDAR-Object-Detection
 mkdir build && cd build
 cmake ..
