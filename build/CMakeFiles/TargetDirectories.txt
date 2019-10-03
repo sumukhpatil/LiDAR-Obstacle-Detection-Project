@@ -1,3 +1,0 @@
-/home/sumukh/LiDAR-Obstacle-Detection/build/CMakeFiles/rebuild_cache.dir
-/home/sumukh/LiDAR-Obstacle-Detection/build/CMakeFiles/environment.dir
-/home/sumukh/LiDAR-Obstacle-Detection/build/CMakeFiles/edit_cache.dir
